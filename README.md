@@ -15,10 +15,9 @@
 ### dari dupe
 ## dari main
 
-## tambahan lagi dari main
-## tambahan lagi dari main
-## tambahan lagi dari main
-## tambahan lagi dari main
-## tambahan lagi dari main
-## tambahan lagi dari main
-## tambahan lagi dari main
+
+### tambahan lagi dari dupe
+### tambahan lagi dari dupe
+### tambahan lagi dari dupe
+### tambahan lagi dari dupe
+### tambahan lagi dari dupe

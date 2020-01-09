@@ -19,5 +19,3 @@
 ### tambahan lagi dari dupe
 ### tambahan lagi dari dupe
 ### tambahan lagi dari dupe
-### tambahan lagi dari dupe
-### tambahan lagi dari dupe
